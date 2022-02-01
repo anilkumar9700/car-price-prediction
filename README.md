@@ -8,11 +8,6 @@ And as the market for used-cars is increasing, the number of sellers is also inc
 Dataset used:
 For solving this problem, I have used the CarDekho dataset, which was avaliable on Kaggle. This is the link: https://www.kaggle.com/shindenikhil/car-dekho-data
 
-References Used:
-I have used this video as a reference. A quick shoutout to Krish Naik, whom I have been following since May.
-
-He uploads very informative and concise videos for Machine Learning and many other topics in the field of AI.
-
 Algorithms used:
 After experimenting with a lot of Regression-based algorithms, Random Forest has worked out the best for me in terms of accuracy. If you want an in-depth explaination on random Forest and how do they work, feel free to checkout this article.
 
